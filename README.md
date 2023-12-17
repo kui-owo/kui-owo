@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **kui-owo/kui-owo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-Studying 🏢: Currently a second year Information Technology student at Hoa Sen University
-Current job 💼: Part-time cosplayer, reviewer (upcoming)
-Project working 🧑‍💻: Currently maintain PixelOS on Redmi K40S
-Ongoing 🌱: A noobie learning about Linux kernel
-Game playing 🕹️: Genshin Impact, Honkai: Star Rail, Valorant not anymore
-Known programming languages 🌟: C, C++, Python 3, Java, HTML5, Bash, CSS, JavaScript, PHP, XML
-Languages 🌍: Vietnamese (mother lang) & English, on learning Japanese (mostly) & Indonesian (a bit, but not now)
+
+-Studying 🏢: Currently a second year Information Technology student at Hoa Sen University
+
+-Current job 💼: Part-time cosplayer, reviewer (upcoming)
+
+-Project working 🧑‍💻: Currently maintain PixelOS on Redmi K40S
+
+-Ongoing 🌱: A noobie learning about Linux kernel
+
+-Game playing 🕹️: Genshin Impact, Minecraft, The Binding of Isaac
+-Known programming languages 🌟: C, C++, HTML5, Bash, CSS, JavaScript
+Languages 🌍: Chinese (mother lang) & English, on learning Japanese  & French
